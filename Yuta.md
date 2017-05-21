@@ -1,4 +1,2 @@
-# iOS-Study
-iOS開発勉強用
-test
-test
+# 髙橋佑太
+- 初めてのGitHub
