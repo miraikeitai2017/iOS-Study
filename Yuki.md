@@ -1,2 +1,0 @@
-# yuki
-- 初めてのGitHub
